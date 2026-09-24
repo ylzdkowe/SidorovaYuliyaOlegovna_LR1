@@ -1,7 +1,10 @@
-bin/
-obj/
+**/bin/
+**/obj/
 .vs/
 *.user
 *.suo
 log.txt
 packages/
+*.tmp
+*.log
+*.cache
